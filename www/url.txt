@@ -1,1 +1,1 @@
-https://example.com/
+https://nyr-musik-stream-v1.vercel.app/
